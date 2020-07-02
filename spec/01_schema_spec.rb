@@ -1,3 +1,4 @@
+
 describe 'creating schema' do
   before do
     @db = SQLite3::Database.new(':memory:')
